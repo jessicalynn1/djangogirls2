@@ -1,0 +1,5 @@
+Django~=3.2.10
+
+
+# Where I left off: "Create tables in your database"
+# https://tutorial.djangogirls.org/en/django_models/
